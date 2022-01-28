@@ -2,7 +2,6 @@ import React from 'react';
 import Head from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
-import notess from "./Notes";
 import Create from "./createArea";
 
 
